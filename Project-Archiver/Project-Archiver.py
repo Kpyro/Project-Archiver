@@ -14,7 +14,7 @@ import adsk.core
 import traceback
 
 
-from.startup import setup_app, cleanup_app, get_app_path
+from .startup import setup_app, cleanup_app, get_app_path
 setup_app(__file__)
 
 try:
