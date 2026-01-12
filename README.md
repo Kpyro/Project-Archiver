@@ -1,5 +1,14 @@
 # Project-Archiver
+This is a hacked up version of (https://github.com/tapnair/Project-Archiver) I had issues with installing which if I had followed directions 
+below about downloading the dist it would have worked.
+
+Reguardless this flattened version does work.
+I am not planning to maintain the dist.
+
+
 The archiver script will open all Fusion 360 3D data in a project and export it as STEP to a local location of your choosing. 
+
+
 
 [How to install](#How-to-install)  
 [How to use](#How-to-use)   
